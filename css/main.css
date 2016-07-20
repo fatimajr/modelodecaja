@@ -1,0 +1,22 @@
+div{
+	border-radius: 8px;
+	border-top: 20px solid purple;
+	border-bottom: 20px solid purple;
+	border-right: 10px solid purple;
+	border-left: 10px solid purple;
+	padding-top: 40px;
+	padding-right: 20px;
+	padding-bottom:70px;
+	padding-left: 100px;
+	margin-top: 120px ;
+	margin-right: 60px;
+	margin-bottom: 30.5px;
+	margin-left: 60px;
+	background-color: orange;
+	text-align: center;
+	margin:blue;
+}
+p{
+	background-color: white;
+	border-style: dashed;
+}
